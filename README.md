@@ -14,3 +14,5 @@ Course syllabus:
 6: Random forests
 7: Collaborative filtering
 8: Convolutions (CNNs)
+
+![alt text](https://github.com/haidiazaman/fastai-learning-projects/blob/main/imgs/1_PQTzNNvBlmjW0Eca-nw14g.png)
