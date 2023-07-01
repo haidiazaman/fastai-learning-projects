@@ -15,4 +15,6 @@ Course syllabus:
 7: Collaborative filtering
 8: Convolutions (CNNs)
 
+If there's time, one should also go through the actual book available on github: https://github.com/fastai/fastbook/blob/master/01_intro.ipynb
+
 ![alt text](https://github.com/haidiazaman/fastai-learning-projects/blob/main/imgs/1_PQTzNNvBlmjW0Eca-nw14g.png)
